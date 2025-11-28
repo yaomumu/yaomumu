@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi
 
 <div align="center">
 
@@ -548,8 +548,8 @@ EL影像采集 → 预处理(归一化/去噪) →
 
 ### 📞 联系我
 
-[![Email](https://img.shields.io/badge/Email-4XX%40qq.com-red?style=for-the-badge&logo=gmail)](mailto:437370716@qq.com)
-[![技术博客](https://img.shields.io/badge/博客-XX-blue?style=for-the-badge&logo=blogger)]([https://yourblog.com](https://juejin.cn/user/1628791227809897/posts))
+[![Email](https://img.shields.io/badge/Email-437370716@qq.com-red?style=for-the-badge&logo=gmail)](mailto:437370716@qq.com)
+[![技术博客](https://img.shields.io/badge/https://juejin.cn/user/1628791227809897/posts-blue?style=for-the-badge&logo=blogger)]([https://yourblog.com])
 
 ---
 
